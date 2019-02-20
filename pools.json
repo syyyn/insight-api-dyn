@@ -1,0 +1,86 @@
+[
+  {
+    "poolName": "Someone using z-nomp!",
+    "url": "https://github.com/z-classic/z-nomp/",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "Someone using equihash-solomining!",
+    "url": "https://github.com/aayanl/equihash-solomining",
+    "searchStrings": [
+      "EquihashSolominer!-github.com/aayanl/equihash-solomining"
+    ]
+  },
+  {
+    "poolName": "Miningspeed",
+    "url": "http://pool.miningspeed.com",
+    "searchStrings": [
+      "miningspeed.com - http://pool.miningspeed.com"
+    ]
+  },
+  {
+    "poolName": "Magnificent pool",
+    "url": "http://zel.magnificentpool.com/",
+    "searchStrings": [
+      "magnificent"
+    ]
+  },
+  {
+    "poolName": "CloudPools",
+    "url": "http://zel.cloudpools.net/",
+    "searchStrings": [
+      "cloudpools"
+    ]
+  },
+  {
+    "poolName": "CoinBlockers",
+    "url": "https://zel.coinblockers.com/",
+    "searchStrings": [
+      "coinblockers"
+    ]
+  },
+  {
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool.1ds.us"
+    ]
+  },
+  {
+    "poolName": "XBTMoon",
+    "url": "http://pool.xbtmoon.com/",
+    "searchStrings": [
+      "xbtmoon"
+    ]
+  },
+  {
+    "poolName": "FastBlocks",
+    "url": "https://fastblocks.net/",
+    "searchStrings": [
+      "fastblocks"
+    ]
+  },
+  {
+    "poolName": "FlowMining.org",
+    "url": "http://flowmining.org/",
+    "searchStrings": [
+      "flowmining"
+    ]
+  },
+  {
+    "poolName": "CloudPools (EU)",
+    "url": "http://zel-eu.cloudpools.net/",
+    "searchStrings": [
+      "http://zel-eu.cloudpools.net"
+    ]
+  },
+  {
+    "poolName": "AltHashers",
+    "url": "https://althashers.com/",
+    "searchStrings": [
+      "althashers"
+    ]
+  }
+]
