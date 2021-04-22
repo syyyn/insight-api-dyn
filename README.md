@@ -1,18 +1,18 @@
 # Insight API
 
-A Dynamic blockchain REST and web socket API service for [Bitcore Node Dynamic](https://github.com/wkibblerht/bitcore-node-DYN).
+A Dynamic blockchain REST and web socket API service for [Bitcore Node Dynamic](https://github.com/syyyn/bitcore-node-dyn).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/wkibblerht/insight-ui-DYN.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/syyyn/insight-ui-dyn.
 
 ## Getting Started
 
 ```bashl
-git clone https://github.com/wkibblerht/bitcore-node-DYN.git
-cd bitcore-node-DYN
+git clone https://github.com/syyyn/bitcore-node-dyn.git
+cd bitcore-node-dyn
 npm install
 bitcore-node create mynode
 cd mynode
-bitcore-node install insight-api-DYN
+bitcore-node install insight-api-dyn
 bitcore-node start
 ```
 
@@ -20,7 +20,7 @@ The API endpoints will be available by default at: `http://localhost:3001/insigh
 
 ## Prerequisites
 
-- [Bitcore Node Dynamic](https://github.com/wkibblerht/bitcore-node-DYN)
+- [Bitcore Node Dynamic](https://github.com/syyyn/bitcore-node-dyn)
 
 **Note:** You can use an existing Dynamic data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcore.conf`, as well as a few other additional fields.
 
@@ -76,7 +76,7 @@ To protect the server, insight-api has a built it query rate limiter. It can be 
     }
   }
 ```
-With all the configuration options available: https://github.com/wkibblerht/insight-api-DYN/blob/master/lib/ratelimiter.js#L10-17
+With all the configuration options available: https://github.com/syyyn/insight-api-dyn/blob/master/lib/ratelimiter.js#L10-17
 
 Or disabled entirely with:
 ``` json

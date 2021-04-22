@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-DYN",
+  "name": "insight-api-dyn",
   "description": "A Dynamic blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/duality-solutions/insight-api-DYN.git",
+  "repository": "git://github.com/duality-solutions/insight-api-dyn.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -47,18 +47,22 @@
     {
       "name": "wkibbler",
       "email": "william.kibbler@protonmail.com"
+    },
+    {
+      "name": "syyyn",
+      "email": "syn@synister.dev"
     }
   ],
   "bugs": {
-    "url": "https://github.com/duality-solutions/insight-api-DYN/issues"
+    "url": "https://github.com/syyyn/insight-api-dyn/issues"
   },
-  "homepage": "https://github.com/duality-solutions/insight-api-DYN",
+  "homepage": "https://github.com/syyyn/insight-api-dyn",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "DYN api",
+    "dyn api",
     "blockchain api",
     "json",
     "bitcore"
@@ -73,8 +77,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-DYN": "git://github.com/duality-solutions/bitcore-lib-DYN#master",
-    "bitcore-message-DYN": "git://github.com/duality-solutions/bitcore-message-DYN#master",
+    "bitcore-lib-dyn": "git://github.com/syyyn/bitcore-lib-dyn#master",
+    "bitcore-message-dyn": "git://github.com/syyyn/bitcore-message-dyn#master",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
