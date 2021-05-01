@@ -2,7 +2,7 @@
   "name": "insight-api-dyn",
   "description": "A Dynamic blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/duality-solutions/insight-api-dyn.git",
+  "repository": "git://github.com/syyyn/insight-api-dyn.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
